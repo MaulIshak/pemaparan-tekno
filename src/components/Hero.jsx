@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const Hero = () => {
     return (
-        <section className="relative h-screen flex items-center justify-center overflow-hidden pt-20">
+        <section className="relative min-h-[100dvh] flex items-center justify-center overflow-hidden md:pt-20">
             {/* Background Effects */}
             <div className="absolute inset-0 overflow-hidden -z-10">
                 <div className="absolute top-[20%] left-[10%] w-72 h-72 bg-tekno-primary/20 rounded-full blur-[100px] animate-pulse" />
