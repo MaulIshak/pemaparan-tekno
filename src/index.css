@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --font-poppins: 'Poppins', sans-serif;
+
+  --color-tekno-primary: #1A81E8;
+  --color-tekno-secondary: #04ACFC;
+  --color-tekno-white: #F0F8F8;
+  --color-tekno-black: #05080D;
+  --color-tekno-slate: #40515B;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: var(--font-poppins);
+    @apply bg-tekno-black text-tekno-white overflow-x-hidden;
+  }
+
+  section {
+    @apply scroll-mt-24;
+  }
+}
