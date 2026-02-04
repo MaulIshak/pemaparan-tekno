@@ -23,7 +23,7 @@ const Navbar = () => {
                         {/* Logo - Left Side */}
                         <div className="flex-shrink-0 hidden md:flex items-center gap-3">
                             <div className="w-10 h-10 relative group">
-                                <img src="/src/assets/tekno.png" alt="Logo Unit Teknologi" className="w-full h-full object-contain" />
+                                <img src="/tekno.png" alt="Logo Unit Teknologi" className="w-full h-full object-contain" />
                             </div>
                             <div className="hidden sm:block">
                                 <h1 className="text-lg font-bold leading-none">
@@ -87,7 +87,7 @@ const Navbar = () => {
                                 <div className="flex items-center justify-between p-4 border-b border-tekno-slate/10">
                                     <div className="flex items-center gap-3">
                                         <div className="w-8 h-8 flex items-center justify-center">
-                                            <img src="/src/assets/tekno.png" alt="Logo" className="w-full h-full object-contain" />
+                                            <img src="/tekno.png" alt="Logo" className="w-full h-full object-contain" />
                                         </div>
                                         <div>
                                             <h1 className="text-sm font-bold leading-none">

@@ -31,7 +31,7 @@ const Structure = () => {
                         </div>
                     </div>
                     <img
-                        src="/src/assets/struktur.png"
+                        src="/struktur.png"
                         alt="Struktur Organisasi Unit Teknologi"
                         className="w-full h-auto rounded-xl shadow-lg border border-white/5 hover:scale-[1.01] transition-transform duration-500"
                     />
@@ -58,7 +58,7 @@ const Structure = () => {
                             initial={{ scale: 0.8 }}
                             animate={{ scale: 1 }}
                             exit={{ scale: 0.8 }}
-                            src="/src/assets/struktur.png"
+                            src="/struktur.png"
                             alt="Struktur Full Screen"
                             className="max-w-full max-h-[90vh] object-contain rounded-lg shadow-2xl"
                             onClick={(e) => e.stopPropagation()} // Prevent close when clicking image

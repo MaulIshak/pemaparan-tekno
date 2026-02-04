@@ -19,7 +19,7 @@ const Hero = () => {
                 >
                     {/* Actual Logo */}
                     <div className="w-40 h-40 mx-auto flex items-center justify-center mb-6">
-                        <img src="/src/assets/tekno.png" alt="Unit Teknologi Logo" className="w-full h-full object-contain drop-shadow-[0_0_15px_rgba(26,129,232,0.5)]" />
+                        <img src="/tekno.png" alt="Unit Teknologi Logo" className="w-full h-full object-contain drop-shadow-[0_0_15px_rgba(26,129,232,0.5)]" />
                     </div>
                 </motion.div>
 
