@@ -38,7 +38,7 @@ const Hero = () => {
                     transition={{ delay: 0.5, duration: 0.8 }}
                     className="text-xl md:text-2xl text-tekno-slate max-w-2xl mx-auto font-light"
                 >
-                    Meningkatkan kualitas keilmuan dan mengembangkan inovasi digital masa depan.
+                    Mengembangkan minat dan bakat mahasiswa dalam bidang informatika dengan profesionalitas.
                 </motion.p>
             </div>
         </section>

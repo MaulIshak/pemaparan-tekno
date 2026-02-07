@@ -7,13 +7,13 @@ const Activities = () => {
         {
             title: "Teknocamp",
             icon: <GraduationCap className="w-10 h-10 text-tekno-primary" />,
-            description: "Program pelatihan intensif selama 1 bulan untuk staff muda terpilih sebelum terjun ke proyek riil. Kawah candradimuka bagi talenta baru.",
+            description: "Program pelatihan intensif selama 1 bulan untuk staff muda terpilih sebelum terjun ke proyek riil. Playground bagi talenta baru.",
             color: "from-tekno-primary/20 to-tekno-primary/5"
         },
         {
             title: "Himakom App Development (HAD)",
             icon: <Code className="w-10 h-10 text-tekno-lightBlue" />,
-            description: "Pergerakan inti (Core Movement). Menciptakan solusi digital berupa aplikasi untuk internal Himakom, institusi Polban, hingga pihak eksternal seperti UMKM dan Perusahaan.",
+            description: "Pergerakan inti. Menciptakan solusi digital berupa aplikasi untuk internal Himakom, institusi Polban, hingga pihak eksternal seperti UMKM dan Perusahaan.",
             color: "from-tekno-lightBlue/20 to-tekno-lightBlue/5"
         },
         {
