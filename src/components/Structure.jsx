@@ -15,7 +15,7 @@ const Structure = () => {
                     className="mb-12"
                 >
                     <h2 className="text-3xl md:text-5xl font-bold mb-4">Struktur Unit Teknologi</h2>
-                    <p className="text-tekno-slate">Organisasi dan Hierarki</p>
+                    <p className="text-tekno-slate">Unit Teknologi mengadaptasi struktur organisasi dan workflow perusahaan nyata guna meningkatkan efektivitas dan profesionalitas.</p>
                 </motion.div>
 
                 <motion.div
